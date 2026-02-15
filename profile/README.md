@@ -30,7 +30,7 @@ Mindfeeder behaves like a venture studio because it:
 - Uses client work as R&D funding + field research.
 - Reuses patterns across projects (onboarding, forms, ecommerce, automation, indexing, compliance, SEO, content ops).
 
-### 3.2 Systems Thinking (Your “signature”)
+### 3.2 Systems Thinking (Mindfeeder “signature”)
 A recurring theme across everything:
 - **Start with messy reality → extract repeatable structure → automate it → ship it as a tool.**
 You don’t just solve a problem once—you build the *machine* that solves it forever.
@@ -56,7 +56,7 @@ Distinctive edge:
 ---
 
 ### Pillar B — Product Lab (Reusable software)
-This is where the “agency lessons” turn into products. Examples of your product-lab pattern:
+This is where the “agency lessons” turn into products. Examples of Mindfeeder's product-lab pattern:
 
 - **WordPress plugins** (serious, modern, production-grade)
   - AI-assisted form generation workflows (Gravity Forms)
@@ -87,7 +87,7 @@ Why it’s bigger than a directory:
 - CityOS aims to become **useful infrastructure**: accurate, dynamic, and integrated with actual workflows (lead routing, booking, reviews, verification, offers, local events, partnerships).
 
 CityOS fits Mindfeeder because:
-- It’s a natural extension of your hyper-local business development instincts.
+- It’s a natural extension of Mindfeeder hyper-local business development instincts.
 - It reuses the agency stack (SEO, content, UX, analytics).
 - It becomes a platform for other community-centric products.
 
@@ -102,7 +102,7 @@ Why it matters:
 - Attention is the new currency, and it’s under constant attack.
 - People need a “trusted layer” between themselves and the inbound chaos.
 
-This platform aligns with your broader mission:
+This platform aligns with Kyle's broader mission:
 - Reduce cognitive load.
 - Increase agency.
 - Protect families, small businesses, and vulnerable people.
@@ -142,7 +142,7 @@ This is the part that unifies everything beyond revenue:
 ### North Star Statement
 **Mindfeeder exists to build systems that increase human agency—especially for people who think differently—by reducing noise, improving learning, and creating healthier, higher-trust communities.**
 
-In your words (paraphrased):
+In Kyle's words (paraphrased):
 - *“I want to reach a higher tier of what I can help grow for humanity while I’m here.”*
 
 That shows up as:
@@ -150,7 +150,7 @@ That shows up as:
 - **Education + social tools** (AR education/social app concept)
 - **Creative community infrastructure** (Music Co-op)
 - **Local economic empowerment** (CityOS)
-- **Tools that turn confusion into clarity** (your form systems, automation, indexing, compliance tooling)
+- **Tools that turn confusion into clarity** (Mindfeeder's form systems, automation, indexing, compliance tooling)
 
 ---
 
@@ -166,9 +166,9 @@ How it fits the ecosystem:
 - CityOS provides “place-based” structure (locations, businesses, local knowledge graphs).
 - The Music Co-op provides a live community template.
 - Peace of Mind provides the ethics + safety infrastructure (anti-abuse, anti-spam, boundary protection).
-- Your AI + automation stack provides personalization without surveillance creep (done right).
+- Mindfeeder AI + automation stack provides personalization without surveillance creep (done right).
 
-The key differentiator (if you keep it aligned to your ethos):
+The key differentiator (if you keep it aligned to Kyle's ethos):
 - **It’s an agency amplifier, not an attention trap.**
 
 ---
@@ -197,7 +197,7 @@ These guardrails keep the enterprise coherent:
 
 - Not a “random project collection.” Everything must ladder into the pillars or the north star.
 - Not a pure agency. Services are a funding engine, not the end-state.
-- Not surveillance capitalism. Your mission conflicts with exploitative data models.
+- Not surveillance capitalism. Mindfeeder's mission conflicts with exploitative data models.
 - Not hype-first. You build real systems that survive contact with reality.
 
 ---
