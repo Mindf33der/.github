@@ -1,7 +1,7 @@
 # Mindfeeder Enterprise — Unified Narrative + Operating Thesis (v1.0)
 **Owner / Builder:** Kyle Altenderfer  
 **Timezone / Home base:** Missouri (Chillicothe region)  
-**Working definition:** Mindfeeder is an integrated venture-studio + product lab that builds practical, revenue-producing software and media systems—primarily for small-to-mid markets—while aiming toward a long-term “north star” of tools that help people think clearer, communicate better, learn faster, and live with more agency.
+**Working definition:** Mindfeeder is an integrated venture-studio + product lab that builds practical, revenue-producing software and media systems—primarily for small-to-mid markets (+ enterprise full-spectrum eco-systems) while aiming toward a long-term “north star” of tools that help people think clearer, communicate better, learn faster, and live with more agency.
 
 ---
 
@@ -40,7 +40,7 @@ You don’t just solve a problem once—you build the *machine* that solves it f
 ## 4) The Pillars of Mindfeeder (What everything rolls up into)
 
 ### Pillar A — Agency Engine (Services that fund the lab)
-**Focus:** WordPress, WooCommerce, Gravity Forms, SEO, analytics, site performance, automation.  
+**Focus:** WordPress, WooCommerce, Marketing Systems, SEO, analytics, site performance, automation.  
 **Why it matters:** This is the reliable cashflow and “problem intake pipeline.”
 
 Typical outcomes:
@@ -51,17 +51,16 @@ Typical outcomes:
 
 Distinctive edge:
 - You build **plugins and internal tooling** when off-the-shelf breaks.
-- You’re as design-literate as you are code-literate, which is rare.
+- We are as design-literate as we are code-literate, which is rare.
 
 ---
 
 ### Pillar B — Product Lab (Reusable software)
 This is where the “agency lessons” turn into products. Examples of Mindfeeder's product-lab pattern:
 
-- **WordPress plugins** (serious, modern, production-grade)
+- **WordPress plugins** (serious, modern, production-grade, in live circulation)
   - AI-assisted form generation workflows (Gravity Forms)
   - WooCommerce utilities (exporters, variation testers, membership utilities)
-  - UX behavior modifiers (Elementor/TOC offsets, scroll/image morphing)
   - Compliance tooling foundations (PDF workflows, validation/fix pipelines)
 
 - **Web apps / SaaS-like systems**
@@ -69,7 +68,7 @@ This is where the “agency lessons” turn into products. Examples of Mindfeede
   - GCP Cloud Run services
   - Firebase auth / Firestore / Storage
   - BigQuery for analytics + cost/usage telemetry
-  - Agent-style backends (MCP servers, scripts, indexers)
+  - Agent-style backends (MCP servers, scripts, indexers) | Market Research Systems, Content Pipelines for Skilled human-in-the loop production
 
 Core idea:
 > Build once. Reuse everywhere. Turn complexity into packaged leverage.
@@ -110,18 +109,18 @@ This platform aligns with Kyle's broader mission:
 
 ---
 
-### Pillar E — Algorithmic Trading / Automation Experiments
-You’re building/iterating on custom algorithmic trading and automation systems.
+### Pillar E — Algorithmic Trading / Automation Experiments / Agent Workflow Systems & Deliverables / Deep Market Research & Analysis
+You’re building/iterating on custom algorithmic trading and/or automation systems.
 In the Mindfeeder narrative, these are:
 - R&D into decision systems, risk, signals, discipline, and automation
 - A potential profit engine
 - A “lab” for building robust telemetry, monitoring, and correctness workflows
 
-(Importantly: this pillar is not the public “center” of Mindfeeder—it’s a behind-the-scenes capability and learning loop.)
+(Importantly: this pillar is not the public “center” of Mindfeeder—it’s a behind-the-scenes capability, learning loop, and "tool" for PURPOSE.)
 
 ---
 
-### Pillar F — The Music Co-op (Creative infrastructure + community)
+### Pillar F — The Music Co-op / beta2 -> The Colletetive Platform (Creative infrastructure + community)
 The Music Co-op is both:
 1) A real-world community institution (membership, rooms, scheduling, rehearsals, events), and  
 2) A proving ground for productized operations + membership software patterns.
@@ -155,11 +154,11 @@ That shows up as:
 ---
 
 ## 6) The AR Education + Social App (Mission vehicle)
-This is the “human-upgrading” platform thread.
+This is the “human-upgrading” platform thread and eventual profit share from our ventures | The "Foundation" for future non-profit work.
 
 High-level intent:
 - Make learning social, contextual, and real-world.
-- Use AR to connect knowledge to environments (places, objects, tasks).
+- Use AR to connect knowledge to environments (places, objects, tasks). | Start with music education, collaboration, performance, etc "The Collective Platform".
 - Encourage curiosity, mastery, and collaboration without turning into doomscroll fuel.
 
 How it fits the ecosystem:
@@ -253,10 +252,11 @@ A coherent “future story” could look like:
 3) **Parallel:** Peace of Mind MVPs (spam filtering + voice workflows, safety-first features).  
 4) **Scale:** Creator/community infrastructure (Music Co-op systems productized).  
 5) **North Star:** AR education + social learning app (agency-first, place-based, community-driven, ethically aligned).
+6) **Non-Profit Community Work** To help water what holds value within us all.
 
 ---
 
-## 13) The Tagline Options (Optional)
+## 13) Taglines
 - “Systems that grow humans and businesses.”
 - “Turn chaos into leverage.”
 - “Build tools. Build trust. Build agency.”
@@ -268,4 +268,4 @@ A coherent “future story” could look like:
 ## 14) The True Center
 If someone asked what Mindfeeder *really* is underneath everything:
 
-**It’s Kyle building a repeatable machine that converts complexity into clear systems—so people and communities can operate at a higher level—without being eaten alive by noise, bureaucracy, or exploitative tech.**
+**It’s Kyle & Mindfeeder building a repeatable machine that converts complexity into clear systems—so people and communities can operate at a higher level—without being eaten alive by noise, bureaucracy, or exploitative tech.**
